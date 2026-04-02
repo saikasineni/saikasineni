@@ -11,8 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=saikasineni&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=saikasineni&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saikasineni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-## 📊 GitHub Stats
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=saikasineni&show_icons=true&theme=radical)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saikasineni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
